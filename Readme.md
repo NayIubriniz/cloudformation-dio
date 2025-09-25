@@ -8,7 +8,7 @@ Este projeto tem como objetivo crir uma **Stack na AWS** utilizando CloudFormati
 
 O projeto demonstra o uso de **infraestrutura como Código (IaC)**, aplicando práticas na AWS e documentando todo o processo.
 
-##Arquivos do Repositório
+## Arquivos do Repositório
 - `04-EC2_S3_UserGroup.yaml`: Template CloudFormation utilizado para criar a stack.
 - `/images`: Capturas de tela do processo de execução e recursos criados.
 
